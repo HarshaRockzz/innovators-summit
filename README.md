@@ -1,1 +1,1 @@
-# innovators-summit
+# ECELL Workshop
